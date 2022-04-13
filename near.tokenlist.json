@@ -1,59 +1,64 @@
 {
 	"tokens": [{
-      "address": "craftingbtc.testnet",
 			"name": "Bitcoin",
 			"symbol": "BTC",
 			"standard": "NEP-141",
 			"decimals": 18,
 			"logoURI": "https://assets.coingecko.com/coins/images/1/small/bitcoin.png",
+			"address": "craftingbtc.testnet",
 			"collateral_ratio": 200,
 			"state": 0
 		},
 		{
-      "address": "craftingeth.testnet",
 			"name": "Ethereum",
 			"symbol": "ETH",
 			"standard": "NEP-141",
 			"decimals": 18,
 			"logoURI": "https://assets.coingecko.com/coins/images/279/small/ethereum.png",
+			"address": "craftingeth.testnet",
 			"collateral_ratio": 200,
 			"state": 0
 		}
 	],
 	"rafts": [{
-    "address": "craftingrbtc.testnet",
-		"name": "CraftingBitcoin",
-		"symbol": "rBTC",
-		"standard": "NEP-141",
-		"decimals": 6,
-		"logoURI": "https://assets.coingecko.com/coins/images/1/small/bitcoin.png",
-		"state": 0
-	},
-	{
-    "address": "craftingreth.testnet",
-		"name": "CraftingEthereum",
-		"symbol": "rETH",
-		"standard": "NEP-141",
-		"decimals": 6,
-		"logoURI": "https://assets.coingecko.com/coins/images/279/small/ethereum.png",
-		"state": 0
-	},
-	{
-    "address": "craftingrnear.testnet",
-		"name": "CraftingNear",
-		"symbol": "rNEAR",
-		"standard": "NEP-141",
-		"decimals": 6,
-		"logoURI": "https://assets.coingecko.com/coins/images/10365/small/near_icon.png",			
-		"state": 0
-	},
-	{
-    "address": "craftingrusd.testnet",
-		"name": "CraftingUSD",
-		"symbol": "rUSD",
-		"standard": "NEP-141",
-		"decimals": 6,
-		"logoURI": "https://assets.coingecko.com/coins/images/21559/small/tokenlogo.png",			
-		"state": 0
-	}]
+			"name": "CraftingBitcoin",
+			"symbol": "rBTC",
+			"standard": "NEP-141",
+			"decimals": 6,
+			"logoURI": "https://assets.coingecko.com/coins/images/1/small/bitcoin.png",
+			"address": "craftingrbtc.testnet",
+			"collateral_ratio": 0,
+			"state": 0
+		},
+		{
+			"name": "CraftingEthereum",
+			"symbol": "rETH",
+			"standard": "NEP-141",
+			"decimals": 6,
+			"logoURI": "https://assets.coingecko.com/coins/images/279/small/ethereum.png",
+			"address": "craftingreth.testnet",
+			"collateral_ratio": 0,
+			"state": 0
+		},
+		{
+			"name": "CraftingNear",
+			"symbol": "rNEAR",
+			"standard": "NEP-141",
+			"decimals": 6,
+			"logoURI": "https://assets.coingecko.com/coins/images/10365/small/near_icon.png",
+			"address": "craftingrnear.testnet",
+			"collateral_ratio": 0,
+			"state": 0
+		},
+		{
+			"name": "CraftingUSD",
+			"symbol": "rUSD",
+			"standard": "NEP-141",
+			"decimals": 6,
+			"logoURI": "https://assets.coingecko.com/coins/images/21559/small/tokenlogo.png",
+			"address": "craftingrusd.testnet",
+			"collateral_ratio": 0,
+			"state": 0
+		}
+	]
 }
