@@ -18,6 +18,16 @@
 			"logoURI": "https://assets.coingecko.com/coins/images/279/small/ethereum.png",
 			"collateral_ratio": 200,
 			"state": 0
+		},
+		{
+			"address": "usdn.testnet",
+			"name": "USN",
+			"symbol": "USN",
+			"standard": "NEP-141",
+			"decimals": 18,
+			"logoURI": "https://assets.coingecko.com/coins/images/24930/small/download.png",
+			"collateral_ratio": 500,
+			"state": 0
 		}
 	],
 	"rafts": [{
