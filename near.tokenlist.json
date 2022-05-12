@@ -6,6 +6,7 @@
 			"standard": "NEP-141",
 			"decimals": 18,
 			"logoURI": "https://assets.coingecko.com/coins/images/1/small/bitcoin.png",
+			"feed_pair": "BTC/USD",
 			"collateral_ratio": 200,
 			"state": 0
 		},
@@ -16,6 +17,7 @@
 			"standard": "NEP-141",
 			"decimals": 18,
 			"logoURI": "https://assets.coingecko.com/coins/images/279/small/ethereum.png",
+			"feed_pair": "ETH/USD",
 			"collateral_ratio": 200,
 			"state": 0
 		},
@@ -26,6 +28,7 @@
 			"standard": "NEP-141",
 			"decimals": 18,
 			"logoURI": "https://assets.coingecko.com/coins/images/24930/small/download.png",
+			"feed_pair": "USN/USD",
 			"collateral_ratio": 500,
 			"state": 0
 		}
@@ -37,6 +40,7 @@
 			"standard": "NEP-141",
 			"decimals": 6,
 			"logoURI": "https://assets.coingecko.com/coins/images/1/small/bitcoin.png",
+			"feed_pair": "BTC/USD",
 			"state": 0
 		},
 		{
@@ -46,6 +50,7 @@
 			"standard": "NEP-141",
 			"decimals": 6,
 			"logoURI": "https://assets.coingecko.com/coins/images/279/small/ethereum.png",
+			"feed_pair": "ETH/USD",
 			"state": 0
 		},
 		{
@@ -55,6 +60,7 @@
 			"standard": "NEP-141",
 			"decimals": 6,
 			"logoURI": "https://assets.coingecko.com/coins/images/10365/small/near_icon.png",
+			"feed_pair": "NEAR/USD",
 			"state": 0
 		},
 		{
@@ -64,6 +70,7 @@
 			"standard": "NEP-141",
 			"decimals": 6,
 			"logoURI": "https://assets.coingecko.com/coins/images/21559/small/tokenlogo.png",
+			"feed_pair": "rUSD/USD",
 			"state": 0
 		}
 	]
