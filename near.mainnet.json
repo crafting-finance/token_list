@@ -1,0 +1,140 @@
+{
+	"tokens": [{
+			"address": "508df5aa4746be37b5b6a69684dfd8bdc322219d.factory.bridge.near",
+			"name": "Crafting Finance",
+			"symbol": "CRF",
+			"standard": "NEP-141",
+			"decimals": 18,
+			"logoURI": "https://assets.coingecko.com/coins/images/21559/small/tokenlogo.png",
+			"feed_pair": "CRF/USD",
+      "feed_provider": "opfilabs.near",
+			"collateral_ratio": 500,
+			"state": 0
+		},
+    {
+			"address": "dac17f958d2ee523a2206206994597c13d831ec7.factory.bridge.near",
+			"name": "Tether",
+			"symbol": "USDT",
+			"standard": "NEP-141",
+			"decimals": 6,
+			"logoURI": "https://assets.coingecko.com/coins/images/325/small/Tether-logo.png",
+			"feed_pair": "USDT/USD",
+      "feed_provider": "opfilabs.near",
+			"collateral_ratio": 150,
+			"state": 0
+		},
+		{
+			"address": "6b175474e89094c44da98b954eedeac495271d0f.factory.bridge.near",
+			"name": "Dai",
+			"symbol": "DAI",
+			"standard": "NEP-141",
+			"decimals": 18,
+			"logoURI": "https://assets.coingecko.com/coins/images/9956/small/4943.png",
+			"feed_pair": "DAI/USD",
+      "feed_provider": "opfilabs.near",
+			"collateral_ratio": 150,
+			"state": 0
+		},
+		{
+			"address": "2260fac5e5542a773aa44fbcfedf7c193bc2c599.factory.bridge.near",
+			"name": "Wrapped Bitcoin",
+			"symbol": "WBTC",
+			"standard": "NEP-141",
+			"decimals": 8,
+			"logoURI": "https://assets.coingecko.com/coins/images/7598/small/wrapped_bitcoin_wbtc.png",
+			"feed_pair": "BTC/USD",
+      "feed_provider": "opfilabs.near",
+			"collateral_ratio": 200,
+			"state": 0
+		},
+    {
+			"address": "aurora",
+			"name": "Ethereum",
+			"symbol": "ETH",
+			"standard": "NEP-141",
+			"decimals": 18,
+			"logoURI": "https://assets.coingecko.com/coins/images/279/small/ethereum.png",
+			"feed_pair": "ETH/USD",
+      "feed_provider": "opfilabs.near",
+			"collateral_ratio": 200,
+			"state": 0
+		},
+    {
+			"address": "c02aaa39b223fe8d0a0e5c4f27ead9083c756cc2.factory.bridge.near",
+			"name": "Wrapped Ether",
+			"symbol": "WETH",
+			"standard": "NEP-141",
+			"decimals": 18,
+			"logoURI": "https://assets.coingecko.com/coins/images/2518/small/weth.png",
+			"feed_pair": "ETH/USD",
+      "feed_provider": "opfilabs.near",
+			"collateral_ratio": 200,
+			"state": 0
+		},
+    {
+			"address": "wrap.near",
+			"name": "Wrapped NEAR",
+			"symbol": "wNEAR",
+			"standard": "NEP-141",
+			"decimals": 24,
+			"logoURI": "https://assets.coingecko.com/coins/images/18280/small/EX4mrWMW_400x400.jpg",
+			"feed_pair": "NEAR/USD",
+      "feed_provider": "opfilabs.near",
+			"collateral_ratio": 300,
+			"state": 0
+		},
+    {
+			"address": "aaaaaa20d9e0e2461697782ef11675f668207961.factory.bridge.near",
+			"name": "Aurora",
+			"symbol": "AURORA",
+			"standard": "NEP-141",
+			"decimals": 18,
+			"logoURI": "https://assets.coingecko.com/coins/images/20582/small/aurora.jpeg",
+			"feed_pair": "AURORA/USD",
+      "feed_provider": "opfilabs.near",
+			"collateral_ratio": 500,
+			"state": 0
+		},
+	],
+	"rafts": [{
+			"address": "craftingrbtc.testnet",
+			"name": "CraftingBitcoin",
+			"symbol": "rBTC",
+			"standard": "NEP-141",
+			"decimals": 6,
+			"logoURI": "https://assets.coingecko.com/coins/images/1/small/bitcoin.png",
+			"feed_pair": "BTC/USD",
+			"state": 0
+		},
+		{
+			"address": "craftingreth.testnet",
+			"name": "CraftingEthereum",
+			"symbol": "rETH",
+			"standard": "NEP-141",
+			"decimals": 6,
+			"logoURI": "https://assets.coingecko.com/coins/images/279/small/ethereum.png",
+			"feed_pair": "ETH/USD",
+			"state": 0
+		},
+		{
+			"address": "craftingrnear.testnet",
+			"name": "CraftingNear",
+			"symbol": "rNEAR",
+			"standard": "NEP-141",
+			"decimals": 6,
+			"logoURI": "https://assets.coingecko.com/coins/images/10365/small/near_icon.png",
+			"feed_pair": "NEAR/USD",
+			"state": 0
+		},
+		{
+			"address": "craftingrusd.testnet",
+			"name": "CraftingUSD",
+			"symbol": "rUSD",
+			"standard": "NEP-141",
+			"decimals": 6,
+			"logoURI": "https://assets.coingecko.com/coins/images/21559/small/tokenlogo.png",
+			"feed_pair": "rUSD/USD",
+			"state": 0
+		}
+	]
+}
