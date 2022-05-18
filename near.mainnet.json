@@ -94,7 +94,7 @@
       			"feed_provider": "opfilabs.near",
 			"collateral_ratio": 500,
 			"state": 0
-		},
+		}
 	],
 	"rafts": [{
 			"address": "craftingrusd.near",
