@@ -1,15 +1,5 @@
 {
-	"tokens": [{
-			"address": "craftingbtc.testnet",
-			"name": "Bitcoin",
-			"symbol": "BTC",
-			"standard": "NEP-141",
-			"decimals": 18,
-			"logoURI": "https://assets.coingecko.com/coins/images/1/small/bitcoin.png",
-			"feed_pair": "BTC/USD",
-			"collateral_ratio": 200,
-			"state": 0
-		},
+	"tokens": [
 		{
 			"address": "craftingeth.testnet",
 			"name": "Ethereum",
